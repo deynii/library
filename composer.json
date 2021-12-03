@@ -1,0 +1,19 @@
+{
+    "name": "library/library",
+    "description": "the image library manage for php",
+    "type": "library",
+    "license": "apache 2",
+    "autoload": {
+        "psr-4": {
+            "Library\\Library\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Deynii",
+            "email": "yong129@vip.qq.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
